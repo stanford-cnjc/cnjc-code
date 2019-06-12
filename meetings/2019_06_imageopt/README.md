@@ -3,6 +3,8 @@
 #### eshedm@stanford.edu
 
 Notebooks to demonstrate image optimization methods.
+Note that these require a checkpoint file for a pre-trained Alexnet. Contact
+Eshed if you'd like to download that checkpoint for your own use!
 
 ### Table of Contents
 1. 01_Sanity_Check.ipynb
