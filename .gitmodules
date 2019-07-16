@@ -1,0 +1,6 @@
+[submodule "cnjc-vae"]
+	path = cnjc-vae
+	url = git@github.com:tbenst/cnjc-vae
+[submodule "meetings/2019_07_variational_bayesian/presentation"]
+	path = meetings/2019_07_variational_bayesian/presentation
+	url = git@github.com:tbenst/cnjc-vae
